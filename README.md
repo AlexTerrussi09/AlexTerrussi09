@@ -21,9 +21,6 @@
 
  • Soft Skills: Comunicacion, Empatia, Liderazgo, Versatilidad, Adaptabilidad, Proactividad, Trabajo en equipo, Autoconfianza, Autonomia, Toma de decisiones, Aprendizaje Agil, Logro de Objetivos, Compañerismo
 
-Actualmente estoy aprendiendo sobre:
- • MondoDB
- • TypeScript
 
 👤 ¿Querés saber más de mí? ¡Contactame!
 📧 alexterrussi09@gmail.com
