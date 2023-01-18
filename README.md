@@ -67,18 +67,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexTerrussi09&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexTerrussi09&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTerrussi09&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
-  
+<br/>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlexTerrussi09&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=AlexTerrussi09&&style=flat-square" align="center" />
 </div>  
   
 
