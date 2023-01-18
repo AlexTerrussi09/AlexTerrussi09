@@ -24,7 +24,7 @@
 
 👤 ¿Querés saber más de mí? ¡Contactame!
 📧 alexterrussi09@gmail.com
-📧 alexterrussi9@gmail.com@gmail.com  
+📧 alexterrussi9@gmail.com
   
 
 <br/>  
