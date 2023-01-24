@@ -15,7 +15,7 @@
 
 
 ### Gracias por tomarte el tiempo de ver mi perfil de GitHub!  
-¡Hola, soy Alexander Terrussi, Desarrollador Fullstack 💻! Siempre me intereso el mundo de la tecnología, ya que le doy uso a mi creatividad e ingenio para la creación de proyectos y solución de problemas existentes . Soy una persona proactiva, que se encuentra en constante aprendizaje para poder mejorar mi condicion como desarrollador web, me gusta el trabajo en equipo, como asi tambien el individual. Unas de mis mayores virtudes es que me adapto a cualquier entorno de trabajo, considero que soy una persona paciente y tengo alta tolerancia a la frustración.
+¡Hola, soy Alexander Terrussi, Desarrollador Fullstack y estudiante de Ingenieria Informatica💻! Siempre me intereso el mundo de la tecnología, ya que le doy uso a mi creatividad e ingenio para la creación de proyectos y solución de problemas existentes . Soy una persona proactiva, que se encuentra en constante aprendizaje para poder mejorar mi condicion como desarrollador web, me gusta el trabajo en equipo, como asi tambien el individual. Unas de mis mayores virtudes es que me adapto a cualquier entorno de trabajo, considero que soy una persona paciente y tengo alta tolerancia a la frustración.
 
  • Hard Skills: HTML, CSS, JavaScript, React.js, Redux, Express.js, Node.js, Sequelize, PostgreSQL, SQL, pgAdmin, Scrum, Git, GitHub, Boostrap, Tailwind.
 
