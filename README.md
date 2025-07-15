@@ -99,6 +99,17 @@ Soy un desarrollador fullstack apasionado por la tecnología, la resolución de 
 
 ---
 
+### 📊 Actividad reciente
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexTerrussi09&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexTerrussi09&bg_color=ffffff&color=000000&line=007acc&point=24292e&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+
 ### 📬 Contacto
 
 ¿Querés ponerte en contacto conmigo?  
