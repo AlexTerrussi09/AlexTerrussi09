@@ -83,9 +83,9 @@ Soy un desarrollador fullstack apasionado por la tecnología, la resolución de 
 
 ### 📚 Actualmente aprendiendo
 
-- TypeScript  
-- MongoDB & Mongoose  
-- Docker  
+- AWS  
+- Patrones de diseño  
+- NextJs  
 - Arquitectura hexagonal y buenas prácticas de desarrollo
 
 ---
