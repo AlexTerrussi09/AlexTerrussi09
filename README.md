@@ -27,30 +27,44 @@ Soy un desarrollador fullstack apasionado por la tecnología, la resolución de 
 
 ### 🛠️ Tech Stack
 
-**Lenguajes & Frameworks**
+**Lenguajes de programación**
+<p>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30" alt="Python" />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="30" alt="C" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="30" alt="C++" />
+</p>
+
+**Frontend**
 <p>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" alt="HTML5" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="30" alt="CSS3" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" alt="React" />
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="30" alt="Node.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="30" alt="Express.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" alt="Tailwind CSS" />
 </p>
 
-**Base de datos & DevOps**
+**Backend**
+<p>
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="30" alt="Node.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="30" alt="Express.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/sequelize-original.svg" height="30" alt="Sequelize" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongoose.png" height="30" alt="Mongoose" />
+</p>
+
+**Bases de datos**
 <p>
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="30" alt="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
-  <img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="30" alt="GitHub" />
 </p>
 
-**Estilos y diseño**
+**DevOps / Herramientas**
 <p>
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
+  <img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="30" alt="GitHub" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="30" alt="Docker" />
   <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="30" alt="Chart.js" />
 </p>
 
@@ -70,7 +84,8 @@ Soy un desarrollador fullstack apasionado por la tecnología, la resolución de 
 ### 📚 Actualmente aprendiendo
 
 - TypeScript  
-- MongoDB  
+- MongoDB & Mongoose  
+- Docker  
 - Arquitectura hexagonal y buenas prácticas de desarrollo
 
 ---
