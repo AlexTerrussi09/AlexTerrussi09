@@ -52,8 +52,8 @@ E-commerce con autenticación de terceros, pasarela de pagos, envío de emails t
 ## 📫 Contacto
 
 - ✉️ alexterrussi9@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/alexander-terrussi-a79810250)
-- 🌐 [Portfolio]([https://www.example.com/](https://alexterrussi09.github.io/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-terrussi-a79810250)
+- 🌐 [Portfolio](https://www.example.com/](https://alexterrussi09.github.io)
 
 ---
 ⭐️ Gracias por pasar por mi perfil
